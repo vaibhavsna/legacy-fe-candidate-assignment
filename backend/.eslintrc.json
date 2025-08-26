@@ -1,0 +1,1 @@
+{\n  "extends": [\n    "eslint:recommended"\n  ],\n  "env": { "node": true, "es2021": true }\n}
